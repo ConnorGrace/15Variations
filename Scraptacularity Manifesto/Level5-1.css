@@ -1,0 +1,66 @@
+body {
+    background-color:palegreen;
+}
+
+span {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 40px;
+    background-color: white;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+#a {
+    color: crimson;
+    border: 2px dashed deeppink;
+}
+
+#b {
+    color:tomato;
+    border: 2px dashed dodgerblue;
+}
+
+#c {
+    color: blueviolet;
+    border: 2px dashed chartreuse;
+}
+
+#d {
+    color: cadetblue;
+    border: 2px dashed crimson;
+}
+
+#e {
+    color: darkgoldenrod;
+    border: 2px dashed tomato;
+}
+
+#f {
+    color: forestgreen;
+    border: 2px dashed blueviolet;
+}
+
+#g {
+    color: coral;
+    border: 2px dashed cadetblue;
+}
+
+#h {
+    color: darkslategray;
+    border: 2px dashed darkgoldenrod;
+}
+
+#i {
+    color: deeppink;
+    border: 2px dashed forestgreen;
+}
+
+#j {
+    color:dodgerblue;
+    border: 2px dashed coral;
+}
+
+#k {
+    color:chartreuse;
+    border: 2px dashed darkslategray;
+}

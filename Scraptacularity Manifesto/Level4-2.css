@@ -1,0 +1,100 @@
+#one {
+    position:fixed;
+    top: 260px;
+    left: 150px;
+    
+    font-size: 50px;
+    
+    border: 2px solid lightseagreen;
+    
+    font-family: "Lucida Console", Monaco, monospace;
+    
+    padding-left: 5px;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+#two {
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 25px;
+    
+    border: 5px dotted red;
+    
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+    margin-left: 245px;
+}
+
+#three {
+    position:fixed;
+    top: 250px;
+    left: 450px;
+    
+    font-size: 70px;
+    
+    border: 1px dashed black;
+    
+    font-family: "Courier New", Courier, monospace;
+    
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#four {
+    position:fixed;
+    top: 255px;
+    left: 750px;
+    
+    font-size: 40px;
+    
+    font-family: "Arial Black", Gadget, sans-serif;
+    
+    border: 8px solid lightgreen;
+    
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.brackets {
+    font-size: 30px;
+    border: 3px dashed orange;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 540px;
+}
+
+#i {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+#ii {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+#six {
+    position:fixed;
+    top: 330px;
+    left: 966px;
+    
+    font-size: 50px;
+    
+    border: 1px solid goldenrod;
+    
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+.fixed {
+    position:fixed;
+    top:90px;
+}
+
+.line {
+    border-bottom: 1px solid darkgrey;
+}

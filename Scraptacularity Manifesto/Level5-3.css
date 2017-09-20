@@ -1,0 +1,127 @@
+body {
+    background: honeydew;
+}
+
+p {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin-left: -4px;
+    margin-right: -4px;
+    margin-top: -2px;
+    margin-bottom: -2px;
+    display: inline-block;
+    line-height: 50px;
+    font-size: 24px;
+    font-family: "Courier New", Courier, monospace;
+    color: white;
+    border: 2px dashed white;
+}
+
+#a {
+    background: powderblue;
+}
+
+#b{
+    background: coral;
+}
+
+#c{
+    background: lightpink;
+}
+
+#d {
+    background: lavender;
+}
+
+#e {
+    background: lightcoral;
+}
+
+#f {
+    background: turquoise;
+}
+
+#g {
+    background: lightgreen;
+}
+
+#h {
+    background: plum;
+}
+
+#i {
+    background: yellow;
+}
+
+#j {
+    background: thistle;
+}
+
+#k {
+    background: springgreen;
+}
+
+#l {
+    background: gold;
+}
+
+#m {
+    background: tomato;
+}
+
+#n {
+    background: peachpuff;
+}
+
+#o {
+    background: aquamarine;
+}
+
+#p {
+    background: lightsalmon;
+}
+
+#q {
+    background: yellowgreen;
+}
+
+#r {
+    background: hotpink;
+}
+
+#s {
+    background: deepskyblue;
+}
+
+#t {
+    background: indianred;
+}
+
+#u {
+    background: lightsteelblue;
+}
+
+#v {
+    background: palegreen;
+}
+
+#w {
+    background: palevioletred;
+}
+
+#x {
+    background: pink;
+}
+
+#y {
+    background: silver;
+}
+
+#z {
+    background: salmon;
+}
+
+#aa {
+    background: slateblue;
+}

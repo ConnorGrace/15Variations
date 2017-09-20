@@ -1,0 +1,403 @@
+span {
+    font-size: 30px;
+}
+
+#main {
+    font-size: 13px;
+    font-family: "Courier New", Courier, monospace;
+    position:absolute;
+    top:42%;
+    left:39%;
+    text-align: center;
+    padding: 40px;
+}
+
+#one {
+    position:absolute;
+    top: -1%;
+    left: 0%;
+}
+
+#two {
+    position:absolute;
+    top: -1%;
+    left: 20%;
+    font-size: 50px;
+}
+
+#three {
+    position:absolute;
+    top: 4%;
+    left: 0%;
+    font-size: 20px;
+}
+
+#four {
+    position:absolute;
+    top: 1%;
+    left: 10%;
+    font-size: 100px;
+    letter-spacing: -12px;
+}
+
+#five {
+    position:absolute;
+    top:79%;
+    left: 0%;
+    font-size: 85px;
+}
+#six {
+    position:absolute;
+    top: 23%;
+    left: 0%;
+}
+
+#seven {
+    position:absolute;
+    top: 10%;
+    left: 10%;
+}
+
+#eight {
+    position:absolute;
+    top: 15%;
+    left: 12%;
+    font-size: 40px;
+}
+
+#nine {
+    position:absolute;
+    top: 21%;
+    left: 12%;
+    font-size: 20px
+}
+
+#ten {
+    position:absolute;
+    top: 53%;
+    left: 0%;
+    font-size: 130px;
+    letter-spacing: -25px;
+}
+
+#eleven {
+    position:absolute;
+    top:31%;
+    left: 42%;
+    font-size: 50px;
+}
+
+#twelve {
+    position:absolute;
+    top:12%;
+    left: 45%;
+}
+
+#thirteen {
+    position:absolute;
+    top:7%;
+    left: 47%;
+}
+
+#fourteen {
+    position:absolute;
+    top:-1%;
+    left: 65%;
+}
+
+#fifteen {
+    position:absolute;
+    top:22%;
+    left: 47%;
+}
+
+#sixteen {
+    position:absolute;
+    top:19%;
+    left: 57%;
+    font-size: 15px;
+}
+
+#seventeen {
+    position:absolute;
+    top:28%;
+    left: 60%;
+}
+
+#seventeen {
+    position:absolute;
+    top:20%;
+    left: 65%;
+}
+
+#eighteen {
+    position:absolute;
+    top:27%;
+    left: 65%;
+}
+
+#nineteen {
+    position:absolute;
+    top:40%;
+    left:1%;
+    font-size: 40px;
+    letter-spacing: -4px
+}
+
+#twenty {
+    position:absolute;
+    top:28%;
+    left: 30%;
+}
+
+#a {
+    position:absolute;
+    top:31%;
+    left:12%;
+    font-size: 15px;
+}
+
+#b {
+    position:absolute;
+    top:33%;
+    left: 15%;
+}
+
+#b {
+    position:absolute;
+    top:40%;
+    left:57%;
+}
+
+#c {
+    position:absolute;
+    top:50%;
+    left:5%;
+}
+
+#d {
+    position:absolute;
+    top:50%;
+    left:57%;
+    font-size: 37px;
+}
+
+#e {
+    position:absolute;
+    top:40%;
+    left:57%;
+    font-size: 60px;
+    letter-spacing: -13px;
+}
+
+#f {
+    position:absolute;
+    top:53%;
+    left:57%;
+    font-size: 60px;
+    letter-spacing: -13px;
+}
+
+#g {
+    position:absolute;
+    top:31%;
+    left:0%;
+    font-size: 60px;
+    letter-spacing: -14px;
+}
+
+#h {
+    position:absolute;
+    top:25%;
+    left:34%;
+    font-size: 15px;
+    letter-spacing: -2px;
+}
+
+#i {
+    position:absolute;
+    top:18%;
+    left:30%;
+    font-size: 70px;
+    letter-spacing: -5px;
+}
+
+#j {
+    position:absolute;
+    top:60%;
+    left:30%;
+    font-size: 70px;
+    letter-spacing: -5px;
+}
+
+#k {
+    position:absolute;
+    top:0%;
+    left:30%;
+    font-size: 70px;
+    letter-spacing: -5px;
+}
+
+#l {
+    position:absolute;
+    top:56%;
+    left:0%;
+    font-size: 50px;
+    letter-spacing: -5px;
+}
+
+#m {
+    position:absolute;
+    top:46%;
+    left:1%;
+    letter-spacing: -6px;
+    font-size: 45px;
+}
+
+#n {
+    position:absolute;
+    top:55%;
+    left:17%;
+    font-size: 20px;
+}
+
+#o {
+    position:absolute;
+    top:55%;
+    left:0%;
+    font-size: 25px;
+}
+
+#p {
+    position:absolute;
+    top:45%;
+    left:0%;
+    font-size: 25px;
+}
+
+#q {
+    position:absolute;
+    top:28%;
+    left:10%;
+    font-size: 25px;
+}
+
+#r {
+    position:absolute;
+    top:92%;
+    left:0%;
+}
+
+#s {
+    position:absolute;
+    top:85%;
+    left:20%;
+    font-size: 60px;
+}
+
+#t {
+    position:absolute;
+    top:70%;
+    left:21%;
+    font-size: 90px;
+    letter-spacing: -12px;
+}
+
+#u {
+    position:absolute;
+    top:23%;
+    left:21%;
+    font-size: 90px;
+    letter-spacing: -12px;
+}
+
+#v {
+    position:absolute;
+    top:38%;
+    left:37%;
+    font-size: 20px;
+}
+
+#w {
+    position:absolute;
+    top:48%;
+    left:57%;
+}
+
+#x {
+    position:absolute;
+    top:56%;
+    left:45%;
+}
+
+#y {
+    position:absolute;
+    top:92%;
+    left:65%;
+}
+
+#z {
+    position:absolute;
+    top:92%;
+    left:32%;
+}
+
+#aa {
+    position:absolute;
+    top:80%;
+    left:5%;
+}
+
+#ab {
+    position:absolute;
+    top:70%;
+    left:0%;
+    font-size: 60px;
+}
+
+#ac {
+    position:absolute;
+    top:65%;
+    left:7%;
+}
+
+#ad {
+    position:absolute;
+    top:83%;
+    left:60%;
+}
+
+#ae {
+    position:absolute;
+    top:75%;
+    left:65%;
+}
+
+#af {
+    position:absolute;
+    top:87%;
+    left:40%;
+}
+
+#ag {
+    position:absolute;
+    top:85%;
+    left:0%;
+}
+
+#ah {
+    position:absolute;
+    top:80%;
+    left:40%;
+    font-size: 20px;
+}
+
+#ai {
+    position:absolute;
+    top:43%;
+    left:17%;
+    font-size: 20px;
+}
+
+
+

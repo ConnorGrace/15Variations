@@ -1,0 +1,8 @@
+h1 {
+    width:120px;
+    display: inline-block;
+    margin-left: 120px;
+    margin-bottom: 100px;
+    padding-left: 8px;
+    border: 1px solid black;
+}
